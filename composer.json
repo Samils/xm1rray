@@ -1,6 +1,6 @@
 {
 	"name": "php_modules/xm1rray",
-	"version": "1.0",
+	"version": "1.0.2",
 	"description": "XM1RRAY - Convert any xml data to an array.",
   "type": "library",
 	"license": "MIT",
