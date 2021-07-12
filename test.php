@@ -1,0 +1,2 @@
+<?php
+# init hope tests
