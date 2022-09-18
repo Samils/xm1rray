@@ -39,7 +39,9 @@
     "wiki": "https://github.com/samils/xm1rray/wiki"
   },
 	"require": {
-		"php": ">=5.6.20",
-		"php_modules/core": "^1.0.2"
-	}
+		"php": ">=5.6.20"
+	},
+  "suggest": {
+    "php_modules/core": ""
+  }
 }
